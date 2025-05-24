@@ -1,2 +1,3 @@
 # EstacionamentoApp
-Exemplo de código simples, em C# para controle de estacionamento
+Exemplo de código simples, em C# e DotNet, 
+para controle de estacionamento
